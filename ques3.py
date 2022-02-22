@@ -23,4 +23,3 @@ sentence_list = sentence.split()
 #
 new_list = sorting_function(sentence_list)
 print(*new_list)
-
