@@ -1,4 +1,4 @@
-string = "a2b3c4d86"
+string = "a12b3c4d10"
 
 n = 0
 length = len(string)
@@ -15,6 +15,3 @@ for i in range(1, length):
         print(c*n, end='')
         n = 0
         c = string[i]
-
-
-

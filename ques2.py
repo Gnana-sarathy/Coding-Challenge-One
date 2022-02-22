@@ -11,5 +11,5 @@ while i < length:
         else:
             break
         j += 1
-    print(string[i], count, sep='', end ='')
+    print(string[i], count, sep='', end='')
     i = j
